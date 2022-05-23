@@ -1,0 +1,36 @@
+.container {
+  height: 85px;
+  width: 90%;
+  margin: auto;
+  padding-top: 35px;
+  background-color: #d6e2ec;
+  box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+}
+
+.menu {
+  background-color: #24252a;
+  height: 50px;
+  width: 90%;
+  margin: auto;
+  display: flex;
+  justify-content: space-around;
+  box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+}
+
+.links {
+  margin-top: 14px;
+  color: #95969b;
+}
+.links > a {
+  margin-left: 10px;
+  margin-right: 10px;
+}
+.btn {
+  margin-top: 14px;
+  height: 25px;
+  width: 70px;
+  background-color: #0383a9;
+  color: rgba(255, 255, 255, 0.781);
+  border: none;
+  border-radius: 10px;
+}
